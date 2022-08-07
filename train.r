@@ -49,3 +49,7 @@ modelo_final <- workflow()%>%
 print(modelo_final)
 
 saveRDS(modelo_final, "modelo_final.rds")
+
+
+
+
